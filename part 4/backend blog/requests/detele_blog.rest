@@ -1,0 +1,14 @@
+GET http://localhost:3003/api/localhost:3003/api/blogs/
+
+###
+
+DELETE  http://localhost:3003/api/blogs/6609fd844cd201d017ff5be8  HTTP/1.1
+content-type: application/json
+
+{
+ "id": "6609e503158cd43446661411",
+  "title": "titulo3",
+  "author": "autor3",
+  "url": "www.url3",
+  "likes": 5
+}

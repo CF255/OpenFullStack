@@ -1,0 +1,15 @@
+.note{
+    color: green;
+    font-size: 15px;
+  }
+  
+  .error, .more{
+    color: red;
+    font-size: 20px;
+    padding: 10px;
+  }
+  
+  .add{
+    color: green;
+    font-size: 20px;
+  }
